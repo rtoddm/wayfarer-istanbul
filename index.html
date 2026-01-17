@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
+    />
+
+    <!-- Poppins and Lora Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:wght@400..700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <title>Wayfarer</title>
+  </head>
+
+  <body>
+    <!-- NavBar -->
+    <nav class="navbar navbar-expand-lg fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html"
+          ><img src="./vector/wayfarer.svg" alt="Travel Icon" class="logo"
+        /></a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="sites.html">Local Spots</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="islands.html">Islands</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- /NavBar -->
+
+    <!-- Hero Section -->
+    <section
+      id="herohomepage"
+      class="d-flex justify-content-center align-items-center text-center"
+    >
+      <div class="container">
+        <h1 class="fw-semibold text-uppercase text-white">
+          Traveling Around Istanbul
+        </h1>
+      </div>
+    </section>
+    <!-- /Hero Section  -->
+
+    <!-- Come Travel With Us -->
+    <div class="container mt-5">
+      <div class="row flex-lg-row-reverse">
+        <div class="col-12 col-lg-6">
+          <img
+            src="./img/about.traveling.istanbul.jpg"
+            class="img-fluid rounded rounded-3 shadow-sm"
+            alt="Traveling around Istanbul"
+          />
+        </div>
+        <div class="col-12 col-lg-6 mt-4 mt-lg-0">
+          <h1 class="fs-3 fw-semibold">Come Travel With Us</h1>
+          <p>
+            Istanbul is a city that rewards curiosity. Straddling two
+            continents, it blends centuries of history with the pulse of modern
+            life in a way few places on earth can. Wander the colorful streets
+            of Fener and Balat, lose yourself in the rhythms of the Grand
+            Bazaar, or pause along the Bosphorus as the city unfolds around you
+            — Istanbul is endlessly layered, and always surprising.
+            <br /><br />
+            Wayfarer is here to help you experience Istanbul with intention.
+            From iconic landmarks to lesser-known neighborhoods, from
+            unforgettable meals to quiet moments off the main path, we guide you
+            toward the places that give the city its soul. Whether it’s your
+            first visit or a return journey, you’ll find inspiration, insight,
+            and practical guidance every step of the way. Explore our curated
+            destinations and start shaping an Istanbul experience that’s
+            uniquely yours. This is a city meant to be felt, not rushed — and
+            your journey begins here.
+          </p>
+          <a href="about.html" class="btn btn-outline-dark btn-sm">Read More</a>
+        </div>
+      </div>
+    </div>
+    <!-- /About Travel -->
+
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="fw-normal fs-4 bg-dark text-white text-center py-2">
+            Around Istanbul
+          </h2>
+          <!-- SlideShow Carousel -->
+          <div
+            id="HomeSlider"
+            class="carousel slide"
+            data-bs-ride="true"
+            aria-current="true"
+          >
+            <div class="carousel-indicators">
+              <button
+                type="button"
+                data-bs-target="#HomeSlider"
+                data-bs-slide-to="0"
+                class="active"
+                aria-current="true"
+                aria-label="Slide 1"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#HomeSlider"
+                data-bs-slide-to="1"
+                aria-label="Slide 2"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#HomeSlider"
+                data-bs-slide-to="2"
+                aria-label="Slide 3"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#HomeSlider"
+                data-bs-slide-to="3"
+                aria-label="Slide 4"
+              ></button>
+            </div>
+
+            <!-- Carousel Items -->
+            <div class="carousel-inner">
+              <!-- Item 1 -->
+              <div class="carousel-item active" data-bs-interval="10000">
+                <img
+                  src="./img/visiting.istanbul.01.jpg"
+                  class="d-block w-100"
+                  alt="A view of Bosphorus"
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>A view of Bosphorus</h5>
+                </div>
+              </div>
+              <!-- Item 2 -->
+              <div class="carousel-item" data-bs-interval="10000">
+                <img
+                  src="./img/visiting.istanbul.02.jpg"
+                  class="d-block w-100"
+                  alt="The neighborhood of Balat"
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>The neighborhood of Balat</h5>
+                </div>
+              </div>
+              <!-- Item 3 -->
+              <div class="carousel-item" data-bs-interval="10000">
+                <img
+                  src="./img/visiting.istanbul.03.jpg"
+                  class="d-block w-100"
+                  alt="Bosphorus view from Süleymaniye mosque"
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Bosphorus view from Süleymaniye mosque</h5>
+                </div>
+              </div>
+              <!-- Item 4 -->
+              <div class="carousel-item" data-bs-interval="10000">
+                <img
+                  src="./img/visiting.istanbul.04.jpg"
+                  class="d-block w-100"
+                  alt="View of Karaköy harbor"
+                />
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>View of Karaköy harbor</h5>
+                </div>
+              </div>
+              <!-- Carousel Items -->
+            </div>
+
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#HomeSlider"
+              data-bs-slide="prev"
+            >
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#HomeSlider"
+              data-bs-slide="next"
+            >
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+          <!-- /SlideShow Carousel -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Card Group -->
+    <div class="container mt-5">
+      <h2 class="fs-3 fw-semibold">
+        <i class="bi bi-box-arrow-in-down-right me-2 h3"></i>Places in Istanbul
+      </h2>
+      <div class="row row-cols-1 row-cols-lg-3 g-4">
+        <!-- Card 1 -->
+        <div class="col">
+          <div
+            class="card bg-dark bg-opacity-75 border border-3 border-dark-subtle rounded-4 h-100 shadow"
+          >
+            <img
+              src="./img/fener.istanbul.jpg"
+              class="card-img-top rounded-bottom-0 rounded-4"
+              alt="Fener & Balat"
+            />
+            <div class="card-body d-flex flex-column">
+              <h5 class="card-title text-white fw-semibold">Fener & Balat</h5>
+              <p class="card-text text-white-50">
+                Fener and Balat are among Istanbul’s most historically layered
+                neighborhoods, shaped by centuries of cultural exchange and
+                everyday life. Recognized as part of Istanbul’s UNESCO World
+                Heritage areas, these districts preserve a depth of history
+                that’s still woven into daily routines, quiet streets, and
+                lived-in buildings.
+                <br /><br />
+                Despite their significance, Fener and Balat remain outside the
+                path of most visitors. That’s part of their appeal. Here, the
+                city feels slower and more intimate — a place where wandering
+                reveals stories that don’t announce themselves, and where
+                Istanbul’s past is encountered not in monuments, but in moments.
+              </p>
+              <a
+                href="fener.balat.html"
+                class="btn btn-outline-light btn-sm mt-auto align-self-end align-self-md-start"
+                >Read More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col">
+          <div
+            class="card bg-dark bg-opacity-75 border border-3 border-dark-subtle rounded-4 h-100 shadow"
+          >
+            <img
+              src="./img/chora.church.istanbul.jpg"
+              class="card-img-top rounded-bottom-0 rounded-4"
+              alt="Church of Chora"
+            />
+            <div class="card-body d-flex flex-column">
+              <h5 class="card-title text-white fw-semibold">Church of Chora</h5>
+              <p class="card-text text-white-50">
+                The Chora Church stands as one of the most extraordinary
+                surviving expressions of the Byzantine world. Tucked away from
+                Istanbul’s busiest routes, it rewards those who seek it out with
+                a rare sense of continuity — where art, architecture, and
+                devotion have endured across centuries of change.
+                <br /><br />
+                Rather than overwhelming, the experience here is quietly
+                powerful. The mosaics and frescoes invite close attention,
+                offering a glimpse into a period of remarkable artistic and
+                spiritual depth. Chora is not simply a landmark to check off,
+                but a place to slow down and reflect — one of those spaces where
+                Istanbul’s layered history feels especially present.
+              </p>
+              <a
+                href="church.of.chora.html"
+                class="btn btn-outline-light btn-sm mt-auto align-self-end align-self-md-start"
+                >Read More</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col">
+          <div
+            class="card bg-dark bg-opacity-75 border border-3 border-dark-subtle rounded-4 h-100 shadow"
+          >
+            <img
+              src="./img/bozcaada.island.jpg"
+              class="card-img-top rounded-bottom-0 rounded-4"
+              alt="Islands"
+            />
+            <div class="card-body d-flex flex-column">
+              <h5 class="card-title text-white fw-semibold">Islands</h5>
+              <p class="card-text text-white-50">
+                Beyond the city’s historic core, Istanbul opens into a wider
+                landscape of coastal neighborhoods, quiet villages, and island
+                escapes that offer a different rhythm of travel. From seaside
+                suburbs to ferry-linked islands, these places invite a slower
+                pace.
+                <br /><br />
+                Whether it’s a walk along the water, a short ferry ride, or a
+                weekend spent exploring just beyond the urban edge, these
+                surrounding destinations make space for rest, reflection, and a
+                renewed sense of place. Sometimes the most memorable moments in
+                Istanbul happen just outside the center.
+              </p>
+              <a
+                href="islands.html"
+                class="btn btn-outline-light btn-sm mt-auto align-self-end align-self-md-start"
+                >Read More</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Card Group -->
+
+    <!-- Footer -->
+    <footer class="mt-5 p-2">
+      <ul
+        class="nav justify-content-center text-center flex-column flex-sm-row"
+      >
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./sites.html">Local Spots</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./islands.html">Islands</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./about.html">About Us</a>
+        </li>
+      </ul>
+    </footer>
+
+    <!-- /Footer -->
+
+    <!-- Script -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
