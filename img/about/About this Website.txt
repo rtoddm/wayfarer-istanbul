@@ -1,0 +1,63 @@
+HTML: about.html
+It's all about appreciating Istanbul
+
+About Travel
+The website is inspired by the daily local life and it's my passion for exploring and sharing experiences with my audience to see what the city has to offer.
+
+
+Elias Sarantopoulos
+
+Bootstrap Icons
+<i class="bi bi-twitter-x"></i>
+<i class="bi bi-instagram"></i>
+<i class="bi bi-linkedin"></i>
+<i class="bi bi-envelope-fill"></i>
+
+https://x.com/yourUsername
+https://instagram.com/yourUsername
+https://linkedin.com/in/yourUsername/
+mailto:email@example.com
+
+
+
+Paragraph (p)
+Every morning, the city’s energy sparks my curiosity. The sounds of daily life inspired me to create Travel not just a website, but a window into urban exploration. It began with my love for wandering side streets, finding hidden gems, and connecting with locals. Whether it’s a tucked-away art gallery, a top notch food truck, or a peaceful park, every discovery felt worth sharing.
+
+I wanted others to experience the city like adventurers, not just visitors. Through vivid articles, striking photos, and engaging videos, Travel brings these moments to life, encouraging people to see the city in a fresh way. What started as a personal passion has grown into a community of urban explorers who share discoveries and celebrate the beauty hidden in everyday life.
+
+
+Elias Sarantopoulos
+Hi, I'm Elias, the guy with the short hair, that's me, an avid photographer, taking photos is a thing I love the most, it's a source of energy and Istanbul just draws you in!
+
+
+FAQs
+
+My photographic Style
+I'm an editorial and travel photographer, capturing high-quality, dynamic, and spontaneous moments. My goal is to create true-to-life images that show people in their most natural form.
+
+
+Fun Facts About Me
+I love to keep learning and improving
+My favorite season is fall
+My hobby is capturing photos & videos
+My favorite music genre is classic rock
+
+
+Camera &amp; Software I use
+
+I primarily use Nikon cameras and lenses, appreciating their quality and reliability. For wide-angle shots, I’m a fan of Tokina lenses, which provide excellent clarity and depth. When it comes to darkroom development, PhotoLab is my go-to for refining and perfecting images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

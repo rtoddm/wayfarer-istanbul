@@ -1,0 +1,77 @@
+Archaeological Museum
+HTML: archaeological.museum.html
+
+Archaeological Museum (h1)
+A Group of Three Museums (h2)
+
+
+Cards
+Medusa Head
+Gorgon (Medusa) sculptured marble head at Istanbul Archaeological Museums, discovered at Çemberlitaş, site of the Forum of Constantine in 1869.
+
+Crying Women Sarcophagus
+The Sarcophagus of the mourning women (Le Tombeau des Pleureuses) is a Hellenistic sarcophagus found in 1887 by the Ottoman archaeologist Osman Hamdi Bey.
+
+Gigantomachy
+Marble relief depicting Gigantomachy, the struggle of Athena (goddess of wisdom) fighting the Gigantes, 2nd century CE, Aphrodisias, Geyre, Aydın.
+
+
+
+Paragraph Text
+The origins of the museum can be traced back to the nearby Hagia Irene Church. After the conquest of Istanbul, the church's location close to the barracks of the Janissaries saw it transformed into a de facto 'inner arsenal' for storing their weapons. By 1726, during the reign of Sultan Ahmed III, it functioned as a full-fledged armory known as Dar-ül Esliha. By the 19th century, the church was also being used to store the varied artifacts amassed by the Ottoman Empire.
+
+Istanbul Archaeological Museums are a compound of museums which consist three major sections; The Archaeology Museum, The Museum of Ancient Orient, The Tiled Kiosk Museum. These three separate main units are  located in the same garden and house the palace collections formed during the late 19th century by museum director, master painter and archaeologist Osman Hamdi Bey.  When Osman Hamdi Bey was assigned as the museum director in 1881, there was a breakthrough in Turkish museology. Osman Hamdi Bey excavated in Mount Nemrud, Myrina, Kyme, other Alolia Necropolises and Lagina Hekate Temple and as a result of excavations he conducted in Sayda (Sidon) between 1887-1888, he reached the necropolis of King Sidon and returned to Istanbul with many sarcophagi, especially the famous one; Alexander the Great.
+
+
+
+Reviews
+I had the privilege of visiting the Archaeological Museum and was deeply impressed by its extensive and diverse collection of historical artifacts. Spanning thousands of years, the exhibits feature treasures from ancient civilizations such as the Greeks, Romans, and Ottomans.
+
+The museum was incredibly fascinating despite appearing small from the outside, it holds a wealth of history within its walls. It's remarkable how well the historical artifacts have been preserved. I was particularly captivated by the stunning Alexander Sarcophagus.
+
+A well-curated museum with impressive exhibits. I especially appreciated the section on Troy, which featured excellent signage providing historical context for each artifact display. However, the individual objects themselves had somewhat less detailed explanations.
+
+
+Amenities (h4)
+Explore the amenities & services the Archaeological Museum has to offer!
+Learn More
+
+
+
+Amenities (h5 Offcanvas)
+
+(Amenities Table)
+Archaeological Artifacts
+Entrance Fee
+Audio Guide
+No Camera Flash Allowed
+Books and Merchandise
+Garden Cafeteria
+Handicap Friendly
+Restrooms
+
+
+Font Awesome Icons
+<i class="fa-solid fa-building-columns"></i>
+<i class="fa-solid fa-ticket"></i>
+<i class="fa-solid fa-headphones-simple"></i>
+<i class="fa-solid fa-camera"></i>
+<i class="fa-solid fa-shop"></i>
+<i class="fa-solid fa-utensils"></i>
+<i class="fa-brands fa-accessible-icon"></i>
+<i class="fa-solid fa-restroom"></i>
+
+
+
+-------
+
+Sites in Istanbul
+<i class="bi bi-box-arrow-in-down-right h3 me-2"></i>
+
+Fener & Balat (html page)
+Church of Chora (html page)
+Archaeological (html page)
+
+
+
+

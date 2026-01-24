@@ -1,0 +1,51 @@
+Süleymaniye Mosque
+
+HTML: suleymaniye.mosque.html
+
+Hero Section: Suleymaniye
+
+Süleymaniye Mosque (h1)
+Designed by the Imperial Architect Mimar Sinan (h2)
+
+
+The Süleymaniye Mosque is an Ottoman imperial mosque located on the Third Hill of Istanbul, Turkey. The mosque was commissioned by Suleiman the Magnificent and designed by the imperial architect Mimar Sinan. An inscription specifies the foundation date as 1550 and the inauguration date as 1557. Behind the qibla wall of the mosque is an enclosure containing the separate octagonal mausoleums of Suleiman the Magnificent and that of his wife Hurrem Sultan. The Süleymaniye Mosque is one of the best-known sights of Istanbul, and from its location on the Third Hill, it commands an extensive view of the city around the Golden Horn.
+
+As with other imperial mosques in Istanbul, the Süleymaniye Mosque was designed as a külliye, or complex with adjacent structures to service both religious and cultural needs. The mosque incorporates the everyday life of civilization in the Middle East such as prayer, education, health and much more.
+
+---------------------------
+
+
+A distinguished architectural marvel from the Ottoman era (h4)
+
+Facts
+- Location: The mosque is situated on the Third Hill of Istanbul, Turkey, overlooking the Golden Horn and the Bosphorus Strait.
+- Architect: It was designed by Mimar Sinan, the chief Ottoman architect, and is considered one of his greatest achievements.
+- Construction Period: Built between 1550 and 1557 during the reign of Sultan Süleyman the Magnificent, after whom it is named.
+- Design: The mosque combines elements of Islamic and Byzantine architecture, creating a harmonious blend of functionality and grandeur.
+- Dome: The central dome has a height of 53 m (174') and a diameter of 27.5 m (90'), showcasing advanced engineering for its time.
+- Interior: Features elegant calligraphy, intricate tile work, and a spacious, serene prayer hall illuminated by natural light from numerous windows.
+- Library: A library within the complex housed important manuscripts and books, serving as a cultural hub.
+- Design: The mosque combines elements of Islamic and Byzantine architecture, creating a harmonious blend of functionality and grandeur.
+- Interior: The complex included a hospital, bathhouse, kitchen, and madrasahs, embodying the Ottoman tradition of mosques.
+- UNESCO: The Süleymaniye Mosque is part of the UNESCO World Heritage Site "Historic Areas of Istanbul."
+
+
+Font Awesome Icons
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-archway"></i>
+<i class="fa-solid fa-trowel-bricks"></i>
+<i class="fa-solid fa-mosque"></i>
+<i class="fa-solid fa-font"></i>
+<i class="fa-solid fa-book-open"></i>
+<i class="fa-solid fa-compass-drafting"></i>
+<i class="fa-solid fa-monument"></i>
+<i class="fa-solid fa-landmark"></i>
+
+-------
+
+Sites in Istanbul
+<i class="bi bi-box-arrow-in-down-right h3 me-2"></i>
+
+Fener & Balat (html page)
+Church of Chora (html page)
+Archaeological (html page)

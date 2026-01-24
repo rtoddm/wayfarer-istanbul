@@ -80,6 +80,95 @@ p {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
+#herolocalspots {
+  background-image: url(../img/local_spots/hero.local_spots.jpg);
+  background-size: cover;
+  min-height: 50vh;
+  background-position: center;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+#heroislands {
+  background-image: url(../img/islands/hero.islands.jpg);
+  background-size: cover;
+  min-height: 50vh;
+  background-position: center;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+/* Additional Sites */
+#fener-site {
+  background-image:
+    linear-gradient(rgba(102, 153, 255, 0.4), rgba(51, 204, 153, 0.3)),
+    url("../img/local_spots/fener-balat/fener.istanbul.jpg");
+
+  background-size: cover;
+  background-position: center;
+  min-height: 25vh;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 0.6rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#chora-site {
+  background-image:
+    linear-gradient(rgba(102, 153, 255, 0.4), rgba(51, 204, 153, 0.3)),
+    url("../img/local_spots/chora.church.istanbul.jpg");
+
+  background-size: cover;
+  background-position: center;
+  min-height: 25vh;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 0.6rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#archaeo-site {
+  background-image:
+    linear-gradient(rgba(102, 153, 255, 0.4), rgba(51, 204, 153, 0.3)),
+    url("../img/local_spots/archaeological-museum/archaeological.museum.jpg");
+
+  background-size: cover;
+  background-position: center;
+  min-height: 25vh;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 0.6rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#suleymaniye-site {
+  background-image:
+    linear-gradient(rgba(102, 153, 255, 0.4), rgba(51, 204, 153, 0.3)),
+    url("../img/local_spots/suleymaniye-mosque/suleymaniye.mosque.jpg");
+
+  background-size: cover;
+  background-position: center;
+  min-height: 25vh;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 0.6rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Glass Btn */
+.glass {
+  .glass {
+    backdrop-filter: blur(4px);
+  }
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.glass:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(51, 204, 153, 1),
+    rgba(0, 102, 255, 1)
+  );
+  border: 1px solid rbga(0, 102, 255, 1);
+  color: #fff;
+}
+
 .carousel-indicators [data-bs-target] {
   width: 10px;
   height: 10px;

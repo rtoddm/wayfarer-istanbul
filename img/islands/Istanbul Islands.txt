@@ -1,0 +1,90 @@
+Islands
+HTML: islands.html
+
+(hero) Escape to the Islands
+
+
+Istanbul Islands
+The Istanbul Islands, also known as the Princes' Islands (Adalar in Turkish), are a group of nine small islands located in the Sea of Marmara, southeast of Istanbul. They are renowned for their natural beauty, tranquil atmosphere, and historical significance.
+
+Bozcaada: Also known as Tenedos in ancient times, is a picturesque island in the northern Aegean Sea, belonging to Turkey. It is the third-largest Turkish island and is part of Çanakkale Province. Tenedos is mentioned in both the Iliad and the Aeneid, in the latter as the site where the Greeks hid their fleet near the end of the Trojan War. It is renowned for its natural beauty, historical significance, vineyards, and relaxed atmosphere.
+
+Heybeliada: The Saddlebag Island is the second-largest island, named for its saddle-shaped topography. Home to the Halki Theological School, a significant Greek Orthodox seminary. Features pine forests, beaches, and charming restaurants.
+
+Burgazada: The Fortress island is known for its relaxed vibe and literary history, being the home of famous Turkish writer Sait Faik Abasıyanık. Attractions include the Sait Faik Museum and picturesque hiking paths.
+
+
+----------------
+
+Bozcaada Island
+Carousel ID: carouselBozcaada
+
+
+<i class="bi bi-camera-fill"></i>
+
+Tenedos or Bozcaada in Turkish, is an island of Turkey in the northeastern part of the Aegean Sea. Administratively, the island constitutes the Bozcaada district of Çanakkale Province. With an area of 39.9 km2 (15 sq mi), it is the third-largest Turkish island after Imbros (Gökçeada) and Marmara. In 2022, the district had a population of 3,120 inhabitants. The main industries are tourism, wine production and fishing. The island has been famous for its grapes, wines and red poppies for centuries.
+
+Tenedos is mentioned in both the Iliad and the Aeneid, in the latter as the site where the Greeks hid their fleet near the end of the Trojan War in order to trick the Trojans into believing the war was over and into taking the Trojan Horse within their city walls.
+
+----------------
+
+Heybeliada Island
+Carousel ID: carouselHeybeliada
+
+Heybeliada is the second largest of the Princes' Islands in the Sea of Marmara, near Istanbul, Turkey. It is officially a neighborhood in the municipality and district of Adalar, Istanbul Province, Turkey. Its population is 4,424 (2022). Its name, meaning 'with a saddlebag' in Turkish, in supposed reference to the valley between two hills.
+
+The island was known as Halki, Halkitis and Demonesos in antiquity, the first two toponyms deriving from the Greek word halkos, meaning copper. The island was famous for its copper and copper ores in antiquity. In winter the island's population is only about 4,400, but in summer, the owners of summer houses return and the population swells to approximately 30,000.
+
+
+----------------
+
+Burgazada Island
+Carousel ID: carouselBurgazada
+
+
+Burgazada is the third largest of the Princes' Islands in the Sea of Marmara, near Istanbul, Turkey. It is officially a neighborhood in the municipality and district of Adalar, Istanbul Province, Turkey and the name Burgas is thought to be derived from Pyrgos.
+
+Historically, the island was mainly inhabited by Greeks and in the 20th century many Jews from Istanbul settled here. However, with the dwindling of Turkey's minorities, the make-up of the local population is now virtually indistinguishable from the rest of Istanbul. Ferries connect the island with the mainland from terminals at Eminönü and Kabataş on the European side of Istanbul and from Kadıköy and Bostancı on the Asian side.
+
+
+
+-------------------
+
+Amenities
+<i class="bi bi-boxes"></i>
+
+
+Font Awesome Icons
+
+(100%)
+<i class="fa-solid fa-square-parking"></i>Parking
+
+(25%)
+<i class="fa-brands fa-xbox"></i>Game Consoles
+
+(100%)
+<i class="fa-solid fa-wifi"></i>WiFi
+
+(75%)
+<i class="fa-solid fa-martini-glass"></i>Beach Bar
+
+--------
+
+(25%)
+<i class="fa-solid fa-dog"></i>Pets
+
+(50%)
+<i class="fa-solid fa-dumbbell"></i>Gym
+
+
+(75%)
+<i class="fa-solid fa-person-swimming"></i>Swimming Pool
+
+(25%)
+ <i class="fa-solid fa-spa"></i>Spa
+
+
+
+
+
+
