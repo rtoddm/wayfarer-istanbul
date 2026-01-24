@@ -1,7 +1,7 @@
 ## Overview
 
 Wayfarer is a responsive, static travel guide focused on thoughtful exploration and narrative-driven destination content. This project serves as an early design
-and content prototype for a future travel journaling platform (TripThreads).
+and content prototype for a future travel journaling platform.
 
 ## What This Project Explores
 
